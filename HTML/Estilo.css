@@ -1,6 +1,8 @@
 body {
 	background: #F7F7F7;
 	font-family: Verdana;
+	max-width: 900px;
+	margin: auto;
 }
 
 #title, .subtitle, .post_title {
@@ -30,6 +32,7 @@ body {
 	margin : 10px;
 	margin-bottom: 0;
 	border-radius: 8px;
+	text-align: justify;
 }
 
 .subtitle_style{
@@ -59,4 +62,8 @@ body {
 
 .contacts_list li a{
 	color: blue;
+}
+
+.post_image{
+	width: 100%;
 }
