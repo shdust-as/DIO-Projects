@@ -17,3 +17,19 @@ body {
 	border: 3px solid #000;
 	margin: 10px;
 }
+
+.title_style{
+	padding: 10px;
+	border: 3px solid #000;
+	margin : 10px;
+}
+
+.subtitle_style{
+	padding: 10px;
+	margin: 10px;
+}
+
+.footer_style{
+	padding: 10px;
+	margin: 10px;
+}
